@@ -6,8 +6,17 @@ description: (Free of cost)
 
 Step 1: Basics
 
-* CompTIA A+ ([click1](https://youtu.be/2eLe7uz-7CM)), Network+ ([click1](https://youtu.be/vrh0epPAC5w), [click2](https://youtu.be/qiQR5rTSshw)), Security+ ([click here](https://www.professormesser.com/)) Not necessary to purchase the exam voucher, just study and take the knowledge.
-* Linux (I prefer Kali, Parrot) ([click1](https://linuxjourney.com/), [click2](https://overthewire.org/wargames/bandit/), [click3](https://explainshell.com/), [click4](https://linuxsurvival.com/)), Windows (get familiar with cmd, [sysinternals](https://learn.microsoft.com/en-us/sysinternals/), registry)
+* [ ] CompTIA A+ ([click1](https://youtu.be/2eLe7uz-7CM)), Network+ ([click1](https://youtu.be/vrh0epPAC5w), [click2](https://youtu.be/qiQR5rTSshw)), Security+ ([click here](https://www.professormesser.com/)) Not necessary to purchase the exam voucher, just study and take the knowledge.
+* [ ] Linux (I prefer Kali, Parrot) ([click1](https://linuxjourney.com/), [click2](https://overthewire.org/wargames/bandit/), [click3](https://explainshell.com/), [click4](https://linuxsurvival.com/)), Windows (get familiar with cmd, [sysinternals](https://learn.microsoft.com/en-us/sysinternals/), registry)
+* [ ] Programming, scripting, Frontend stack for source code review, and it will help you to understand web application more quickly and easily.
+
+<!---->
+
+* My recommendations: Python, Bash ([click1](https://www.freecodecamp.org/news/shell-scripting-crash-course-how-to-write-bash-scripts-in-linux/), [click2](https://devhints.io/bash)) Frontend stack (HTML, CSS, JS - enough)
+
+{% hint style="info" %}
+You can find free of cost study material in abundance for frontend and python. Make sure you don't waste too much time in looking for material only.
+{% endhint %}
 
 Step 2: Networking: use LinkedIn and Twitter as always (Share your learning, insights, ideas)
 
