@@ -14,3 +14,8 @@
 ## 🐛 Bug Hunting
 
 * [Getting Started](bug-hunting/getting-started.md)
+
+## A Guide for CTFs
+
+* [How and why?](a-guide-for-ctfs/how-and-why.md)
+* [Page](a-guide-for-ctfs/page.md)
