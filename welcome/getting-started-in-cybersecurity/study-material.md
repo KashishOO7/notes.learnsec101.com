@@ -22,7 +22,7 @@ Step 2: Networking: use LinkedIn and Twitter as always (Share your learning, ins
 
 Step 3: Practice&#x20;
 
-* [tryhackme](https://tryhackme.com/hacktivities?tab=search\&page=1\&free=free\&order=most-popular\&difficulty=all\&type=all), HackTheBox, [LetsDefend](https://letsdefend.io/), [blueteamlabs](https://blueteamlabs.online/), [offseclabs](https://www.offsec.com/labs/individual/), [hackxpert](https://labs.hackxpert.com/), [hacktoria](https://hacktoria.com/)
+* [tryhackme](https://tryhackme.com/hacktivities?tab=search\&page=1\&free=free\&order=most-popular\&difficulty=all\&type=all), HackTheBox, [LetsDefend](https://letsdefend.io/), [blueteamlabs](https://blueteamlabs.online/), [offseclabs](https://www.offsec.com/labs/individual/), [hackxpert](https://labs.hackxpert.com/)
 * CTFs - [PicoCTF](https://play.picoctf.org/), [OverTheWire](https://overthewire.org/wargames/), [Hacker101](https://ctf.hacker101.com/), [pwn college](https://pwn.college/), [pwnable](https://pwnable.kr/index.php), [hbh](https://hbh.sh/), tryhackme (Free [CTFs](https://tryhackme.com/hacktivities?tab=search\&page=1\&free=free\&order=most-popular\&difficulty=all\&type=challenge)) start from easy and progress.&#x20;
 
 There are so many resources out there that I can't share everything. So, use this to look for your needs [GitHub](https://github.com/search?q) (type bug bounty, red teaming, blue teaming, malware analysis, etc) Learn to filter out waste and useless info. Not everything is useful but you will learn something for sure.

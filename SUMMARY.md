@@ -17,5 +17,5 @@
 
 ## A Guide for CTFs
 
-* [How and why?](a-guide-for-ctfs/how-and-why.md)
-* [Page](a-guide-for-ctfs/page.md)
+* [?](a-guide-for-ctfs/undefined.md)
+* [Resources](a-guide-for-ctfs/resources.md)
