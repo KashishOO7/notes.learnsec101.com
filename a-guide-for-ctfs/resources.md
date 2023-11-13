@@ -8,6 +8,7 @@ Free Practice CTFs (all difficulty levels):
 * [ ] [TryHackMe](https://tryhackme.com/hacktivities?tab=search\&page=1\&free=free\&order=most-popular\&difficulty=all\&type=challenge)
 * [ ] [pwn\[dot\]college](https://pwn.college/dojos)
 * [ ] [HBH](https://hbh.sh/)
+* [ ] [Root me](https://www.root-me.org/?lang=en)
 
 
 
