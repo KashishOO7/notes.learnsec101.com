@@ -13,6 +13,10 @@
 * [OWASP Top 10 - 2021](web-app-security/owasp-top-10-2021.md)
 * [Resources](web-app-security/resources.md)
 
+## Simplified 101
+
+* [Cybersecurity Simplified to it's core](simplified-101/cybersecurity-simplified-to-its-core.md)
+
 ## 🐛 Bug Hunting
 
 * [Getting Started](bug-hunting/getting-started/README.md)
