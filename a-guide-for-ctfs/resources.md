@@ -1,14 +1,24 @@
+---
+description: Free and legal way to get hands-on experience.
+---
+
 # Resources
 
-Free Practice CTFs (all difficulty levels):
+Practice CTFs (including  all difficulty levels):
 
-* [ ] [PicoCTF](https://play.picoctf.org/)&#x20;
-* [ ] [OverTheWire](https://overthewire.org/wargames/)
-* [ ] [Hacker101](https://ctf.hacker101.com/)
-* [ ] [TryHackMe](https://tryhackme.com/hacktivities?tab=search\&page=1\&free=free\&order=most-popular\&difficulty=all\&type=challenge)
-* [ ] [pwn\[dot\]college](https://pwn.college/dojos)
-* [ ] [HBH](https://hbh.sh/)
-* [ ] [Root me](https://www.root-me.org/?lang=en)
+* [PicoCTF](https://play.picoctf.org/) : Highschool level CTF, also has free learning material.
+* Wargames - Similar to CTFs but are level based. As, you progress through each level, the difficulty increases and makes it more fun and interactive.
+  * [OverTheWire](https://overthewire.org/wargames/)
+  * [UnderTheWire](https://underthewire.tech/wargames)
+  * [Micro Corruption](https://microcorruption.com/)
+  * SmashTheStack
+* [Hacker101](https://ctf.hacker101.com/)
+* [TryHackMe](https://tryhackme.com/hacktivities?tab=search\&page=1\&free=free\&order=most-popular\&difficulty=all\&type=challenge)
+* [pwn\[dot\]college](https://pwn.college/dojos)
+* [HBH](https://hbh.sh/)
+* [Root me](https://www.root-me.org/?lang=en)
+* [RingZer0](https://ringzer0ctf.com/)
+* [W3Challs](https://w3challs.com/)
 
 
 
