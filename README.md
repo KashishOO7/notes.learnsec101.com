@@ -1,6 +1,6 @@
 # Intro
 
-Welcome to my Infosec Notes repository where I will be sharing my experience, learning (notes), tips, and anything that helped me or will help you.&#x20;
+Welcome to my Infosec Notes repository where I will be sharing my experience, learning (notes), tips, FREE resources and anything that helped me or will help you.&#x20;
 
 Let's learn together.
 

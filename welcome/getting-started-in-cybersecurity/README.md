@@ -10,6 +10,3 @@ I wrote an article on Medium on 13 July 2022, to study cybersecurity on your own
 
 And here are the updated insights that I'd like to share for 2023. Click [here](https://medium.com/@kashishcharaya/become-a-cyber-security-researcher-for-free-and-earn-a-living-2023-edition-46ad8e00bdd2).
 
-
-
-Work in progress.....
