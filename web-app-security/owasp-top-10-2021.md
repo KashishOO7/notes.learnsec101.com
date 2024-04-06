@@ -21,5 +21,5 @@ description: >-
 Resources Ahead:
 {% endhint %}
 
-Resources to dive deep into these: [Click1](https://tryhackme.com/room/owasptop102021), [Click2](https://www.synopsys.com/glossary/what-is-owasp-top-10.html), [Click3](https://www.hacksplaining.com/owasp)
+Resources to dive deep into these: [Click1](https://tryhackme.com/r/room/owasptop102021), [Click2](https://www.synopsys.com/glossary/what-is-owasp-top-10.html), [Click3](https://www.hacksplaining.com/owasp)
 
