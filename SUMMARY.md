@@ -2,7 +2,7 @@
 
 ## 🙏 WELCOME
 
-* [Intro :)](README.md)
+* [Intro](README.md)
 * [Getting started in cybersecurity](welcome/getting-started-in-cybersecurity/README.md)
   * [Resources](welcome/getting-started-in-cybersecurity/resources.md)
   * [Miscellaneous Resources](welcome/getting-started-in-cybersecurity/miscellaneous-resources.md)
