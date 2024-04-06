@@ -18,8 +18,6 @@ description: >-
 10. <mark style="color:red;">**SSRF**</mark>: This vulnerability arises when an attacker can force or manipulate the request of the web application into sending requests on their behalf to arbitrary destinations or the target while having control of the contents of the request itself which can lead to RCE or spoofing attacks. This type of vulnerability often occurs whilst the implementation of third-party services like APIs.
 
 {% hint style="info" %}
-Resources Ahead:
+Resources Ahead: [Click1](https://tryhackme.com/r/room/owasptop102021), [Click2](https://www.synopsys.com/glossary/what-is-owasp-top-10.html), [Click3](https://www.hacksplaining.com/owasp)
 {% endhint %}
-
-Resources to dive deep into these: [Click1](https://tryhackme.com/r/room/owasptop102021), [Click2](https://www.synopsys.com/glossary/what-is-owasp-top-10.html), [Click3](https://www.hacksplaining.com/owasp)
 
