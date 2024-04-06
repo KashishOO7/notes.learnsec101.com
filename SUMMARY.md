@@ -15,7 +15,12 @@
 
 ## Simplified 101
 
-* [Cybersecurity Simplified to it's core](simplified-101/cybersecurity-simplified-to-its-core.md)
+* [? Cybersecurity Simplified to it's core](simplified-101/cybersecurity-simplified-to-its-core.md)
+* [🥅 Networking](simplified-101/networking.md)
+* [💽 Digital Forensics](simplified-101/digital-forensics.md)
+* [🕸️ Web Application Security](simplified-101/web-application-security.md)
+* [📱 Android](simplified-101/android.md)
+* [😎 Miscellaneous](simplified-101/miscellaneous.md)
 
 ## 🐛 Bug Hunting
 
@@ -29,6 +34,7 @@
 * [?](a-guide-for-ctfs/undefined.md)
 * [Resources](a-guide-for-ctfs/resources.md)
 
-***
+## Everything Linux
 
-* [Everything Linux](everything-linux.md)
+* [Why Linux?](everything-linux/why-linux.md)
+* [Things you should know!](everything-linux/things-you-should-know.md)
