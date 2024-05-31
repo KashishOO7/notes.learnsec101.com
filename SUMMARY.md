@@ -21,7 +21,7 @@
 * [🕸️ Web Application Security](simplified-101/web-application-security.md)
 * [📱 Android](simplified-101/android.md)
 * [🪱 Everything Malware](simplified-101/everything-malware/README.md)
-  * [Intro to the attacking landscape in real world.](simplified-101/everything-malware/intro-to-the-attacking-landscape-in-real-world..md)
+  * [Intro to the attacking landscape in real world](simplified-101/everything-malware/intro-to-the-attacking-landscape-in-real-world.md)
 * [🤖 AI](simplified-101/ai.md)
 * [😎 Miscellaneous](simplified-101/miscellaneous.md)
 * [🦸 Being a SuperUser in Digital world](simplified-101/being-a-superuser-in-digital-world.md)
