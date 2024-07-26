@@ -42,3 +42,11 @@
 
 * [Why Linux?](everything-linux/why-linux.md)
 * [Things you should know!](everything-linux/things-you-should-know.md)
+
+## 📑 Archives
+
+* [LinkedIn Archives](archives/linkedin-archives/README.md)
+  * [LA1](archives/linkedin-archives/la1.md)
+  * [LA2](archives/linkedin-archives/la2.md)
+  * [LA3](archives/linkedin-archives/la3.md)
+  * [LA4](archives/linkedin-archives/la4.md)
