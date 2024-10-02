@@ -23,8 +23,11 @@
 * [🪱 Everything Malware](simplified-101/everything-malware/README.md)
   * [Intro to the attacking landscape in real world](simplified-101/everything-malware/intro-to-the-attacking-landscape-in-real-world.md)
 * [🤖 AI](simplified-101/ai.md)
-* [😎 Miscellaneous](simplified-101/miscellaneous.md)
 * [🦸 Being a SuperUser in Digital world](simplified-101/being-a-superuser-in-digital-world.md)
+* [Blockchain](simplified-101/blockchain.md)
+* [Quantum Computing](simplified-101/quantum-computing.md)
+* [😎 Miscellaneous](simplified-101/miscellaneous/README.md)
+  * [Interview?](simplified-101/miscellaneous/interview.md)
 
 ## 🐛 Bug Hunting
 
